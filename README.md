@@ -7,11 +7,11 @@
 
 <img src="https://camo.githubusercontent.com/5cfffdf01d71df29ad63ff1b76fe427c33daeaaf47cf20eecdad16bd81d78c1e/68747470733a2f2f7777772e646576656c6f7065722e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f31302f4d7953514c2d44617461626173652d5475746f7269616c732e706e67" alt="MySQL" width="50" height="50"/> MySQL
 
-<img src="https://e7.pngegg.com/pngimages/185/866/png-clipart-html-logo-html-web-design-scalable-graphics-world-wide-web-markup-language-html5-icon-hd-miscellaneous-angle.png" alt="HTML" width="50" height="50"/> HTML
+<img src="https://e7.pngegg.com/pngimages/185/866/png-clipart-html-logo-html-web-design-scalable-graphics-world-wide-web-markup-language-html5-icon-hd-miscellaneous-angle.png](https://i.ibb.co/fF6d0Tq/492-html5-removebg-preview.png" alt="HTML" width="50" height="50"/> HTML
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd6XReJ4dKhEj36VQ6mD9duX3fur7ybPLOzqoKPnGcug&s" alt="CSS" width="50" height="50"/> CSS
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd6XReJ4dKhEj36VQ6mD9duX3fur7ybPLOzqoKPnGcug&s](https://i.ibb.co/vD6TmBM/CSS3-logo-and-wordmark-svg-removebg-preview.png" alt="CSS" width="50" height="50"/> CSS
 
-<img src="https://banner2.cleanpng.com/20180514/txq/kisspng-telegram-bot-api-security-token-internet-bot-chatb-5af9813f13c5c9.969774171526300991081.jpg" alt="TelegramBOT" width="50" height="50"/> TelegramBOT
+<img src="https://banner2.cleanpng.com/20180514/txq/kisspng-telegram-bot-api-security-token-internet-bot-chatb-5af9813f13c5c9.969774171526300991081.jpg](https://i.ibb.co/N20WTtz/kisspng-telegram-bot-api-security-token-internet-bot-chatb-5af9813f13c5c9-969774171526300991081-remo.png" alt="TelegramBOT" width="50" height="50"/> TelegramBOT
 
 ## 📈 GitHub Stats
 
