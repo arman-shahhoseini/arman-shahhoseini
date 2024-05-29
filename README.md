@@ -1,5 +1,5 @@
 # Hi, this is Arman 
-[![Linkedin Badge](linkedin.com/in/arman-shahhoseini-4447152a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](https://www.linkedin.com/in/arman-shahhoseini-4447152a0)
+[![Linkedin Badge](https://img.shields.io/badge/-ArmanShahhoseini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arman-shahhoseini-4447152a0/)](https://www.linkedin.com/in/arman-shahhoseini-4447152a0)
 
 ## 🛠️ Languages and Tools:
 
