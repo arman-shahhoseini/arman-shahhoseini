@@ -1,5 +1,5 @@
 # Hi, this is Arman 
-[![Linkedin Badge](https://www.linkedin.com/in/arman-shahhoseini-4447152a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](https://www.linkedin.com/in/arman-shahhoseini-4447152a0)
+[![Linkedin Badge](linkedin.com/in/arman-shahhoseini-4447152a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](https://www.linkedin.com/in/arman-shahhoseini-4447152a0)
 
 ## 🛠️ Languages and Tools:
 
