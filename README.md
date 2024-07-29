@@ -10,7 +10,7 @@
 
 <img src="https://i.ibb.co/vD6TmBM/CSS3-logo-and-wordmark-svg-removebg-preview.png" alt="CSS" width="50" height="50"/> CSS
 
-<img src="[https://i.ibb.co/vD6TmBM/CSS3-logo-and-wordmark-svg-removebg-preview.png](https://i.ibb.co/NSfLdT0/js-logo-removebg-preview.png)" alt="CSS" width="50" height="50"/> javascript
+<img src="https://i.ibb.co/NSfLdT0/js-logo-removebg-preview.png" alt="javascript" width="50" height="50"/> javascript
 
 <img src="https://i.ibb.co/N20WTtz/kisspng-telegram-bot-api-security-token-internet-bot-chatb-5af9813f13c5c9-969774171526300991081-remo.png" alt="TelegramBOT" width="50" height="50"/> TelegramBOT
 
