@@ -2,7 +2,7 @@
 I’m Arman Shahhosseini, a passionate web developer from Amol, Iran.<br>I specialize in front-end development, crafting beautiful and user-friendly interfaces.<br>With a strong foundation in Python.<br>🔭 I'm currently working on<br>Developing a responsive e-commerce website using React and Node.js<br>Enhancing my skills in data structures and algorithms<br>🌱 I'm currently learning<br>Advanced React concepts and best practices for building dynamic web applications<br>👯 I'm looking to collaborate on<br>Open-source projects related to web development or machine learning<br>Building innovative applications that solve real-world problems<br>🤝 I'm looking for help with<br>Improving my skills in testing and debugging complex applications<br>Expanding my knowledge of cloud computing and deployment strategies<br>💬 Ask me about<br>Front-end development using HTML, CSS, and JavaScript<br>Python programming and its applications in web development and data analysis<br>
 
 ## 🌐 Socials:
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arman-shahhoseini-4447152a0]) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arman-shahhoseini-4447152a0)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
