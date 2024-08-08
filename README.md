@@ -1,23 +1,18 @@
-# Hi, this is Arman 
-[![Linkedin Badge](https://img.shields.io/badge/-ArmanShahhoseini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arman-shahhoseini-4447152a0/)](https://www.linkedin.com/in/arman-shahhoseini-4447152a0)
-
-## 🛠️ Languages and Tools:
-
-<img src="https://camo.githubusercontent.com/3ecea32f70403db71ae4c3818d5c64f3c0cf6a634c52224e3c3f4d7de2032a0e/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f302f30612f507974686f6e2e7376672f31383070782d507974686f6e2e7376672e706e67" alt="Python" width="50" height="50"/> Python                
-<img src="https://camo.githubusercontent.com/5cfffdf01d71df29ad63ff1b76fe427c33daeaaf47cf20eecdad16bd81d78c1e/68747470733a2f2f7777772e646576656c6f7065722e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f31302f4d7953514c2d44617461626173652d5475746f7269616c732e706e67" alt="MySQL" width="50" height="50"/> MySQL
-
-<img src="https://i.ibb.co/fF6d0Tq/492-html5-removebg-preview.png" alt="HTML" width="50" height="50"/> HTML
-
-<img src="https://i.ibb.co/vD6TmBM/CSS3-logo-and-wordmark-svg-removebg-preview.png" alt="CSS" width="50" height="50"/> CSS
-
-<img src="https://i.ibb.co/NSfLdT0/js-logo-removebg-preview.png" alt="javascript" width="50" height="50"/> javascript
-
-<img src="https://i.ibb.co/N20WTtz/kisspng-telegram-bot-api-security-token-internet-bot-chatb-5af9813f13c5c9-969774171526300991081-remo.png" alt="TelegramBOT" width="50" height="50"/> TelegramBOT
-
-<img src="https://camo.githubusercontent.com/fcafa5ebc1f5f789ae7d012a3ecd8fe7bda49516591caf7c37698f764165d880/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="GIT" width="50" height="50"/> GIT
+# 💫 About Me:
+I’m Arman Shah Hosseini, a passionate web developer from Amol, Iran.<br>I specialize in front-end development, crafting beautiful and user-friendly interfaces.<br>With a strong foundation in Python.<br>🔭 I'm currently working on<br>Developing a responsive e-commerce website using React and Node.js<br>Enhancing my skills in data structures and algorithms<br>🌱 I'm currently learning<br>Advanced React concepts and best practices for building dynamic web applications<br>👯 I'm looking to collaborate on<br>Open-source projects related to web development or machine learning<br>Building innovative applications that solve real-world problems<br>🤝 I'm looking for help with<br>Improving my skills in testing and debugging complex applications<br>Expanding my knowledge of cloud computing and deployment strategies<br>💬 Ask me about<br>Front-end development using HTML, CSS, and JavaScript<br>Python programming and its applications in web development and data analysis<br>
 
 
-## 📈 GitHub Stats
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arman-shahhoseini-4447152a0) 
 
-![ArmanShahhoseini's GitHub stats](https://github-readme-stats.vercel.app/api?username=arman-shahhoseini&show_icons=true&theme=radical)
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=arman-shahhoseini&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=arman-shahhoseini&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arman-shahhoseini&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=arman-shahhoseini&icon=0&color=5)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
