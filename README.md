@@ -1,5 +1,7 @@
-# 👋 Hi, I’m Arman Shahhosseini:
-a passionate web developer from Amol, Iran.<br>I specialize in front-end development, crafting beautiful and user-friendly interfaces.<br>With a strong foundation in Python.
+# 👋 Hi, I’m Arman Shahhosseini
+a passionate web developer based in Amol, Iran.  
+I specialize in front-end development, creating beautiful and user-friendly interfaces.  
+With a solid foundation in Python, I also enjoy building robust back-end solutions.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arman-shahhoseini-4447152a0)
