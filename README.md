@@ -18,11 +18,12 @@ With a solid foundation in Python, I also enjoy building robust back-end solutio
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)   
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=arman-shahhoseini&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arman-shahhoseini&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 📊 GitHub Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arman-shahhoseini&theme=radical&hide_border=false)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arman-shahhoseini&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=arman-shahhoseini&icon=0&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Visit Count](https://visitcount.itsvg.in/api?id=arman-shahhoseini&icon=0&color=5)](https://visitcount.itsvg.in)
