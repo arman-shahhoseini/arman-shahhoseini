@@ -10,27 +10,27 @@ I am a passionate web developer based in Amol, Iran, specializing in front-end d
 ## 💻 Tech Stack
 
 - **Front-End:**
-  - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) HTML5
-  - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) CSS3
-  - ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2D8.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) TailwindCSS
-  - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) JavaScript
-  - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) React
+  - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+  - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+  - ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2D8.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+  - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+  - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 
 - **Back-End:**
-  - ![Python](https://img.shields.io/badge/python-%233B73E1.svg?style=for-the-badge&logo=python&logoColor=white) Python
-  - ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) MySQL
-  - ![SQLite](https://img.shields.io/badge/sqlite-%23074046.svg?style=for-the-badge&logo=sqlite&logoColor=white) SQLite
+  - ![Python](https://img.shields.io/badge/python-%233B73E1.svg?style=for-the-badge&logo=python&logoColor=white) 
+  - ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+  - ![SQLite](https://img.shields.io/badge/sqlite-%23074046.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 - **Data Science:**
-  - ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) NumPy
-  - ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) Pandas
-  - ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) OpenCV
+  - ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+  - ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+  - ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) 
 
 - **Tools:**
-  - ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) Git
-  - ![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white) GitHub
-  - ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%233B73E1.svg?style=for-the-badge&logo=python&logoColor=white) PythonAnywhere
-  - ![GitHub Pages](https://img.shields.io/badge/github%20pages-%234B8BBE.svg?style=for-the-badge&logo=github&logoColor=white) GitHub Pages
+  - ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) 
+  - ![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white) 
+  - ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%233B73E1.svg?style=for-the-badge&logo=python&logoColor=white) 
+  - ![GitHub Pages](https://img.shields.io/badge/github%20pages-%234B8BBE.svg?style=for-the-badge&logo=github&logoColor=white) 
 
 
 ## 📂 Projects
