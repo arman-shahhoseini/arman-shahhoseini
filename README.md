@@ -21,7 +21,7 @@ With a solid foundation in Python, I also enjoy building robust back-end solutio
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arman-shahhoseini&theme=radical&hide_border=false)  
+![GitHub Activity Graph](https://github-readme-streak-stats.herokuapp.com/?user=arman-shahhoseini&theme=radical&hide_border=false)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arman-shahhoseini&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
