@@ -10,32 +10,28 @@ I am a passionate web developer based in Amol, Iran, specializing in front-end d
 ## 💻 Tech Stack
 
 - **Front-End:**
-  - HTML5
-  - CSS3
-  - TailwindCSS
-  - JavaScript
-  - React
+  - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) HTML5
+  - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) CSS3
+  - ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2D8.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) TailwindCSS
+  - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) JavaScript
+  - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) React
 
 - **Back-End:**
-  - Python
-  - MySQL
-  - SQLite
+  - ![Python](https://img.shields.io/badge/python-%233B73E1.svg?style=for-the-badge&logo=python&logoColor=white) Python
+  - ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) MySQL
+  - ![SQLite](https://img.shields.io/badge/sqlite-%23074046.svg?style=for-the-badge&logo=sqlite&logoColor=white) SQLite
 
 - **Data Science:**
-  - NumPy
-  - Pandas
-  - OpenCV
+  - ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) NumPy
+  - ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) Pandas
+  - ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) OpenCV
 
 - **Tools:**
-  - Git
-  - GitHub
-  - PythonAnywhere
-  - GitHub Pages
+  - ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) Git
+  - ![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white) GitHub
+  - ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%233B73E1.svg?style=for-the-badge&logo=python&logoColor=white) PythonAnywhere
+  - ![GitHub Pages](https://img.shields.io/badge/github%20pages-%234B8BBE.svg?style=for-the-badge&logo=github&logoColor=white) GitHub Pages
 
-## 📊 GitHub Stats
-
-![GitHub Activity Graph](https://github.com/Arman-Hosseini)
-![Top Languages](https://github.com/Arman-Hosseini)
 
 ## 📂 Projects
 
@@ -45,12 +41,6 @@ Explore my projects to see my work in action. Each project highlights different 
 - **Project 2:** [Project Name](link-to-project) - A brief description of what this project does.
 - **Project 3:** [Project Name](link-to-project) - A brief description of what this project does.
 
-## 🤝 Contributing
-Contributions are welcome! If you have suggestions for improvements or new features, feel free to submit a pull request.
-
-## 📫 Contact
-For any inquiries or feedback, please reach out via [your email](mailto:shahhoseiniarman@gmail.com).
-
 ## 📊 GitHub Stats
 
 ![GitHub Activity Graph](https://github-readme-streak-stats.herokuapp.com/?user=arman-shahhoseini&theme=radical&hide_border=false)  
@@ -58,4 +48,5 @@ For any inquiries or feedback, please reach out via [your email](mailto:shahhose
 
 ---
 Thank you for visiting my profile! Enjoy exploring my projects!
+
 [![Visit Count](https://visitcount.itsvg.in/api?id=arman-shahhoseini&icon=0&color=5)](https://visitcount.itsvg.in)
