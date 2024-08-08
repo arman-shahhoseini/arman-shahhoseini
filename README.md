@@ -37,9 +37,7 @@ I am a passionate web developer based in Amol, Iran, specializing in front-end d
 
 Explore my projects to see my work in action. Each project highlights different skills and technologies.
 
-- **Project 1:** [Project Name](link-to-project) - A brief description of what this project does.
-- **Project 2:** [Project Name](link-to-project) - A brief description of what this project does.
-- **Project 3:** [Project Name](link-to-project) - A brief description of what this project does.
+- **Project 1:** [Front-End Projects](https://github.com/arman-shahhoseini/Front-End-Project.git) - A comprehensive collection of web applications and designs that showcase a variety of front-end development skills. This repository features projects built using HTML, CSS, and JavaScript, each demonstrating unique functionalities and design principles
 
 ## 📊 GitHub Stats
 
