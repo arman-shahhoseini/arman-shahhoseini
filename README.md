@@ -29,11 +29,16 @@
 ## 💻 Tech Stack
 
 - **AI & Data Science:**  
-  ![Python](https://img.shields.io/badge/python-%233B73E1.svg?style=for-the-badge&logo=python&logoColor=white) 
-  ![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) 
+  ![Python](https://img.shields.io/badge/python-%233B73E1.svg?style=for-the-badge&logo=python&logoColor=white)  
+  ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-%2300C7B7.svg?style=for-the-badge&logo=ai&logoColor=white)  
+  ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?style=for-the-badge&logo=ml&logoColor=white)  
+  ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%23EE4C2C.svg?style=for-the-badge&logo=dl&logoColor=white)  
+  ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-%2343B02A.svg?style=for-the-badge&logo=data&logoColor=white)  
+  ![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)  
   ![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)  
   ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
+
 
 - **Front-End Development:**  
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
