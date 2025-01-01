@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="100%" />
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Coding GIF" width="480" height="269" />
 </div>
+
 
 # 👋 Hi, I’m **Arman Shahhosseini** 
 
@@ -27,21 +28,39 @@
 
 ## 💻 Tech Stack
 
-- **Front-End Development:**  
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
 - **AI & Data Science:**  
   ![Python](https://img.shields.io/badge/python-%233B73E1.svg?style=for-the-badge&logo=python&logoColor=white) 
   ![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) 
   ![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)  
-  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
+  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
 
-- **Back-End & Tools:**  
-  ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+- **Front-End Development:**  
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+  ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2D8.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+- **DataBase Management:**  
+  ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+  ![SQLite](https://img.shields.io/badge/sqlite-%23074046.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
+
+- **Tools & Platforms:**  
   ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)  
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)  
+  ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+
+- **Cloud & Hosting:**  
+  ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%233B73E1.svg?style=for-the-badge&logo=python&logoColor=white)  
+  ![Netlify](https://img.shields.io/badge/netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)  
+  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  
+
+- **Robotics & Automation:**  
+  ![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)  
+  ![Telegram Bot](https://img.shields.io/badge/Telegram%20Bot-%230077B5.svg?style=for-the-badge&logo=telegram&logoColor=white)  
+  ![Instagram Bot](https://img.shields.io/badge/Instagram%20Bot-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)
+
 
 ---
 
