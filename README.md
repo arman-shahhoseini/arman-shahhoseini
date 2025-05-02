@@ -123,17 +123,45 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px" height="35px"> Featured Projects
 
 <div align="center">
-  <a href="https://github.com/arman-shahhoseini/IRNFT-PLatform.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arman-shahhoseini&repo=IRNFT-PLatform&theme=radical" alt="IRNFT-Platform" />
-  </a>
-  <a href="https://github.com/arman-shahhoseini/IRNFT-Game-App.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arman-shahhoseini&repo=IRNFT-Game-App&theme=radical" alt="IRNFT-Game-App" />
-  </a>
-</div>
-
-<div align="center">
-  <h3>🎮 IRNFT-Game-App</h3>
-  <p>IRNFT Game App is a gamified NFT platform where players complete tasks, earn coins, trade NFTs, and connect their wallets—all with sleek animations and dynamic features. Game on!</p>
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🎨 IRNFT-Platform</h3>
+        <p align="center">
+          <a href="https://github.com/arman-shahhoseini/IRNFT-PLatform" target="_blank">
+            <img src="https://opengraph.githubassets.com/1/arman-shahhoseini/IRNFT-PLatform" width="100%" alt="IRNFT-Platform"/>
+          </a>
+        </p>
+        <p align="center">
+          Iran's pioneering NFT platform for buying, selling, and trading digital assets. This project combines blockchain technology with digital art to provide a secure and user-friendly marketplace for artists and NFT enthusiasts.
+        </p>
+        <p align="center">
+          <a href="https://github.com/arman-shahhoseini/IRNFT-PLatform" target="_blank">
+            <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
+          </a>
+          <a href="https://irnftplatform.netlify.app" target="_blank">
+            <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"/>
+          </a>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">🎮 IRNFT-Game-App</h3>
+        <p align="center">
+          <a href="https://github.com/arman-shahhoseini/IRNFT-Game-App" target="_blank">
+            <img src="https://opengraph.githubassets.com/1/arman-shahhoseini/IRNFT-Game-App" width="100%" alt="IRNFT-Game-App"/>
+          </a>
+        </p>
+        <p align="center">
+          IRNFT Game App is a gamified NFT platform where players complete tasks, earn coins, trade NFTs, and connect their wallets—all with sleek animations and dynamic features. Game on!
+        </p>
+        <p align="center">
+          <a href="https://github.com/arman-shahhoseini/IRNFT-Game-App" target="_blank">
+            <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
