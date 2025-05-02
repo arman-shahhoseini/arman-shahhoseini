@@ -3,10 +3,21 @@
   <h1>⚡️ Arman Shahhosseini ⚡️</h1>
   <p><em>AI & Web Developer | Innovator | Creator</em></p>
   
-  <a href="https://github.com/arman-shahhoseini"><img src="https://img.shields.io/github/followers/arman-shahhoseini?label=Follow&style=social" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/arman-shahhoseini-4447152a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/-Arman-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin"></a>
-  <a href="https://t.me/armnre"><img src="https://img.shields.io/badge/-@armnre-1ca0f1?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="https://www.instagram.com/arman.script?igsh=cnZ1dW9yYzFka3Jq"><img src="https://img.shields.io/badge/-@arman.script-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.linkedin.com/in/arman-shahhoseini-4447152a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="https://t.me/armnre" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" />
+  </a>
+  <a href="https://www.instagram.com/arman.script?igsh=cnZ1dW9yYzFka3Jq" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+  </a>
+  <a href="mailto:shahhoseiniarman@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+  </a>
+  <a href="https://github.com/arman-shahhoseini" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
 </div>
 
 
@@ -28,29 +39,7 @@
 
 ---
 
-## 🌐 Connect with Me:
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/arman-shahhoseini-4447152a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:shahhoseiniarman@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://t.me/armnre">
-    <img src="https://img.shields.io/badge/Telegram-%230077B5.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="https://www.instagram.com/arman.script?igsh=cnZ1dW9yYzFka3Jq">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://github.com/arman-shahhoseini">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</div>
-
----
-
-## 💻 Tech Stack
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px" height="25px"> Tech Stack
 
 <details open>
 <summary>🧠 AI & Data Science</summary>
@@ -139,34 +128,38 @@
 
 ---
 
-## 📊 Featured Projects
-
-### [🎨 IRNFT-Platform](https://github.com/arman-shahhoseini/IRNFT-PLatform.git)  
-Iran's pioneering NFT platform for buying, selling, and trading digital assets. This project combines blockchain technology with digital art to provide a secure and user-friendly marketplace for artists and collectors. Built with **JavaScript** and modern web technologies.
-
-### [📱 InstaBoost-Bot](https://github.com/arman-shahhoseini/InstaBoost-Bot)  
-Advanced Instagram bot for automated interactions including likes and engaging comments with emojis, designed to simulate human interactions, professionally increase page statistics, and maintain continuous presence under related and trending posts. Developed with **Python**.
-
-### [🚀 IRNFT-Open-Minting-Platform](https://github.com/arman-shahhoseini/IRNFT-Open-Minting-Platform)  
-The IRNFT Open Minting Platform is a free, user-friendly platform for creators and collectors to mint, showcase, and trade NFTs. This platform empowers artists of all levels to explore their creativity and engage with the NFT ecosystem. Built with **JavaScript** and blockchain technologies.
-
----
-
-## 📈 GitHub Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px" height="35px"> Featured Projects
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arman-shahhoseini&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=arman-shahhoseini&theme=radical&hide_border=false)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arman-shahhoseini&theme=radical&hide_border=false&layout=compact&langs_count=8)
-
+  <a href="https://github.com/arman-shahhoseini/IRNFT-PLatform.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arman-shahhoseini&repo=IRNFT-PLatform&theme=radical" alt="IRNFT-Platform" />
+  </a>
+  <a href="https://github.com/arman-shahhoseini/InstaBoost-Bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arman-shahhoseini&repo=InstaBoost-Bot&theme=radical" alt="InstaBoost-Bot" />
+  </a>
+  <a href="https://github.com/arman-shahhoseini/IRNFT-Open-Minting-Platform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arman-shahhoseini&repo=IRNFT-Open-Minting-Platform&theme=radical" alt="IRNFT-Open-Minting-Platform" />
+  </a>
 </div>
 
 ---
 
-## 🎯 Let's Build the Future Together!
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px" alt="Git"> GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arman-shahhoseini&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" height="170em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arman-shahhoseini&theme=radical&hide_border=true" alt="Streak Stats" height="170em" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arman-shahhoseini&theme=radical" alt="Summary" />
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40px" height="40px"> Let's Build the Future Together!
 
 <div align="center">
   <a href="https://github.com/arman-shahhoseini?tab=repositories">
@@ -178,8 +171,20 @@ The IRNFT Open Minting Platform is a free, user-friendly platform for creators a
   <a href="http://www.coffeete.ir/armanshahhoseini">
     <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:260px;" />
   </a>
+  
+  <br><br>
+  
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=arman-shahhoseini&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+  </div>
+  
+  <br>
+  
+  <blockquote>
+    "The only limit to your success is your imagination. Don't limit your creativity, but turn it into a force for change."
+  </blockquote>
+  
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </div>
 
 If you're passionate about **AI**, **Web Development**, or want to create the next **game-changing technology**, let's collaborate and bring ideas to life. Reach out and let's make it happen! 💡
-
-> "The only limit to your success is your imagination. Don't limit your creativity, but turn it into a force for change."
