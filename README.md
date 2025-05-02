@@ -123,13 +123,13 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px" height="35px"> Featured Projects
 
 <div align="center">
-  <table>
+  <table style="width: 80%; margin: 0 auto;">
     <tr>
-      <td width="100%">
+      <td>
         <h3 align="center">🎨 IRNFT-Platform</h3>
         <p align="center">
           <a href="https://github.com/arman-shahhoseini/IRNFT-PLatform" target="_blank">
-            <img src="https://opengraph.githubassets.com/1/arman-shahhoseini/IRNFT-PLatform" width="100%" alt="IRNFT-Platform"/>
+            <img src="https://i.ibb.co/s9mpVPr/Logo.png" width="50%" alt="IRNFT-Platform Logo"/>
           </a>
         </p>
         <p align="center">
