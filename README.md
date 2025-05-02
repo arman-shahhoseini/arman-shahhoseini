@@ -118,14 +118,6 @@
 </div>
 </details>
 
-<details>
-<summary>🎭 Vibe Coding & Creative Skills</summary>
-<br>
-<div align="center">
-  <img src="https://img.shields.io/badge/Creative%20Coding-%23FF5A5F.svg?style=for-the-badge&logo=openprocessing&logoColor=white" alt="Creative Coding">
-</div>
-</details>
-
 ---
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px" height="35px"> Featured Projects
@@ -134,12 +126,14 @@
   <a href="https://github.com/arman-shahhoseini/IRNFT-PLatform.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=arman-shahhoseini&repo=IRNFT-PLatform&theme=radical" alt="IRNFT-Platform" />
   </a>
-  <a href="https://github.com/arman-shahhoseini/InstaBoost-Bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arman-shahhoseini&repo=InstaBoost-Bot&theme=radical" alt="InstaBoost-Bot" />
+  <a href="https://github.com/arman-shahhoseini/Front-End-Project.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arman-shahhoseini&repo=Front-End-Project&theme=radical" alt="IRNFT-Game-App" />
   </a>
-  <a href="https://github.com/arman-shahhoseini/IRNFT-Open-Minting-Platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arman-shahhoseini&repo=IRNFT-Open-Minting-Platform&theme=radical" alt="IRNFT-Open-Minting-Platform" />
-  </a>
+</div>
+
+<div align="center">
+  <h3>🎮 IRNFT-Game-App</h3>
+  <p>IRNFT Game App is a gamified NFT platform where players complete tasks, earn coins, trade NFTs, and connect their wallets—all with sleek animations and dynamic features. Game on!</p>
 </div>
 
 ---
@@ -168,9 +162,13 @@
   
   <br><br>
   
-  <a href="http://www.coffeete.ir/armanshahhoseini">
-    <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:260px;" />
-  </a>
+  <div class="coffee-card" style="background: linear-gradient(135deg, #6e48aa, #9d50bb); padding: 20px; border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.3); max-width: 500px; margin: 0 auto;">
+    <h3 style="color: white; margin-bottom: 15px;">☕ Support My Work</h3>
+    <p style="color: white; margin-bottom: 15px;">If you find my projects helpful or interesting, you can buy me a coffee!</p>
+    <a href="http://www.coffeete.ir/armanshahhoseini">
+      <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:260px; transition: transform 0.3s; border-radius: 8px;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
+    </a>
+  </div>
   
   <br><br>
   
