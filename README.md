@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Coding GIF" width=100% height="269" />
-  <h1>⚡️ Arman Shahhosseini ⚡️</h1>
+  <h1>⚡️Arman Shahhosseini⚡️</h1>
   <p><em>AI & Web Developer | Innovator | Creator</em></p>
   
   <a href="https://www.linkedin.com/in/arman-shahhoseini-4447152a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
