@@ -125,7 +125,7 @@
 <div align="center">
   <table>
     <tr>
-      <td width="50%">
+      <td width="100%">
         <h3 align="center">🎨 IRNFT-Platform</h3>
         <p align="center">
           <a href="https://github.com/arman-shahhoseini/IRNFT-PLatform" target="_blank">
@@ -144,6 +144,9 @@
           </a>
         </p>
       </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
