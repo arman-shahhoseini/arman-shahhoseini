@@ -126,8 +126,8 @@
   <a href="https://github.com/arman-shahhoseini/IRNFT-PLatform.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=arman-shahhoseini&repo=IRNFT-PLatform&theme=radical" alt="IRNFT-Platform" />
   </a>
-  <a href="https://github.com/arman-shahhoseini/Front-End-Project.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arman-shahhoseini&repo=Front-End-Project&theme=radical" alt="IRNFT-Game-App" />
+  <a href="https://github.com/arman-shahhoseini/IRNFT-Game-App.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arman-shahhoseini&repo=IRNFT-Game-App&theme=radical" alt="IRNFT-Game-App" />
   </a>
 </div>
 
