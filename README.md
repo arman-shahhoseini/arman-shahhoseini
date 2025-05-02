@@ -129,7 +129,7 @@
         <h3 align="center">🎨 IRNFT-Platform</h3>
         <p align="center">
           <a href="https://github.com/arman-shahhoseini/IRNFT-PLatform" target="_blank">
-            <img src="https://i.ibb.co/s9mpVPr/Logo.png" width="50%" alt="IRNFT-Platform Logo"/>
+            <img src="https://i.ibb.co/s9mpVPrW/Logo.png" width="50%" alt="IRNFT-Platform Logo"/>
           </a>
         </p>
         <p align="center">
