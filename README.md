@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Coding GIF" width=100% height="269" />
-  <h1>⚡️ Arman Shahhoseini ⚡️</h1>
+  <h1>⚡️ Arman Shahhoseini⚡️</h1>
   <p><em>AI & Web Developer | Innovator | Creator</em></p>
   
   <a href="https://www.linkedin.com/in/arman-shahhoseini-4447152a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
@@ -21,7 +21,7 @@
 </div>
 
 
-# 👋 Hi, I'm Arman Shahhosseini 
+# 👋 Hi, I'm Arman Shahhoseini 
 
 🚀 A visionary Artificial Intelligence Developer and seasoned Web Developer from Amol, Iran. My passion lies in crafting cutting-edge AI solutions and designing user-centric web experiences. With a solid foundation in Python and expertise in Machine Learning and Deep Learning, I thrive on transforming complex problems into impactful innovations.
 
