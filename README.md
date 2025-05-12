@@ -77,6 +77,18 @@
 </details>
 
 <details>
+<summary>🖼️ Image Processing</summary>
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/opencv-%23000000.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
+  <img src="https://img.shields.io/badge/pil-%23000000.svg?style=for-the-badge&logo=python&logoColor=white" alt="PIL (Pillow)">
+  <img src="https://img.shields.io/badge/matplotlib-%23000000.svg?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/imageio-%23000000.svg?style=for-the-badge&logo=python&logoColor=white" alt="ImageIO">
+  <img src="https://img.shields.io/badge/tesseract-%23000000.svg?style=for-the-badge&logo=python&logoColor=white" alt="Tesseract OCR">
+</div>
+</details>
+
+<details>
 <summary>💾 Database Management</summary>
 <br>
 <div align="center">
