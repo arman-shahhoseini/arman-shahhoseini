@@ -185,14 +185,6 @@
   
   <br><br>
   
-  <div class="coffee-card" style="background: linear-gradient(135deg, #6e48aa, #9d50bb); padding: 20px; border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.3); max-width: 500px; margin: 0 auto;">
-    <h3 style="color: white; margin-bottom: 15px;">☕ Support My Work</h3>
-    <p style="color: white; margin-bottom: 15px;">If you find my projects helpful or interesting, you can buy me a coffee!</p>
-    <a href="http://www.coffeete.ir/armanshahhoseini">
-      <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:260px; transition: transform 0.3s; border-radius: 8px;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
-    </a>
-  </div>
-  
   <br><br>
   
   <div>
