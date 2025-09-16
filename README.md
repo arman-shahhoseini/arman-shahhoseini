@@ -29,7 +29,6 @@
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30px" height="30px"> About Me
 <div align="center">
-<img src="https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif" width="200" height="150" style="border-radius: 15px; margin: 0 20px;" align="right">
 
 <p style="text-align: left; font-size: 1.1em; line-height: 1.8;">
 🚀 <strong>Founder & CTO of ARMAN Team</strong> - I've led the journey from vision to execution, building the team from scratch and shaping our culture of innovation. At ARMAN, we're not just writing code; we're building the future through AI, blockchain, and full-stack development solutions.
