@@ -27,9 +27,9 @@
 </div>
 </div>
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> About Me
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30px" height="30px"> About Me
 <div align="center">
-<img src="https://media.giphy.com/media/3o7TKsQ8UJ4DN1IPaU/giphy.gif" width="200" height="150" style="border-radius: 15px; margin: 0 20px;" align="right">
+<img src="https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif" width="200" height="150" style="border-radius: 15px; margin: 0 20px;" align="right">
 
 <p style="text-align: left; font-size: 1.1em; line-height: 1.8;">
 🚀 <strong>Founder & CTO of ARMAN Team</strong> - I've led the journey from vision to execution, building the team from scratch and shaping our culture of innovation. At ARMAN, we're not just writing code; we're building the future through AI, blockchain, and full-stack development solutions.
@@ -44,7 +44,7 @@
 </p>
 </div>
 
-<img src="https://media.giphy.com/media/du3J3cXyzhjCIO8TQe/giphy.gif" width="35px" height="35px"> Professional Journey
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="35px" height="35px"> Professional Journey
 <div align="center">
 <table style="width: 90%; border-collapse: collapse; margin: 20px 0;">
 <tr style="background: linear-gradient(45deg, #4facfe, #00f2fe); color: white;">
