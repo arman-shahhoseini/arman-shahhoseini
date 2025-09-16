@@ -137,7 +137,6 @@
 <img src="https://img.shields.io/badge/telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white&style=plastic" alt="Telegram">
 <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white&style=plastic" alt="Instagram">
 <img src="https://img.shields.io/badge/selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white&style=plastic" alt="Selenium">
-<img src="https://img.shields.io/badge/discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&style=plastic" alt="Discord">
 </div>
 
 <div style="background: linear-gradient(45deg, #d299c2, #fef9d7); padding: 15px; border-radius: 15px; margin: 20px 0;">
@@ -149,7 +148,6 @@
 <img src="https://img.shields.io/badge/sqlite-%23074046.svg?style=for-the-badge&logo=sqlite&logoColor=white&style=plastic" alt="SQLite">
 <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white&style=plastic" alt="Git">
 <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white&style=plastic" alt="Docker">
-<img src="https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white&style=plastic" alt="AWS">
 </div>
 </div>
 
