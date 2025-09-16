@@ -174,59 +174,37 @@
 </div>
 </div>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px" height="35px"> Featured Projects
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px" height="35px"> Featured Project
 <div align="center">
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 20px; margin: 20px 0;">
-<div style="background: linear-gradient(45deg, #667eea, #764ba2); padding: 25px; border-radius: 15px; width: 45%; min-width: 300px; box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);">
-<h3>🎨 IRNFT-Platform</h3>
-<p style="text-align: justify;">Iran's pioneering NFT marketplace for buying, selling, and trading digital assets. Built with blockchain integration, secure payment systems, and an intuitive UI/UX.</p>
-<div style="margin-top: 15px;">
+<div style="background: linear-gradient(45deg, #667eea, #764ba2); padding: 30px; border-radius: 20px; margin: 30px 0; max-width: 800px; box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);">
+<h1 style="color: white; font-size: 2.5em; margin-bottom: 20px;">🎨 IRNFT-Platform</h1>
+
+<div style="margin: 20px 0;">
+<img src="https://i.ibb.co/s9mpVPrW/Logo.png" width="150" height="150" style="border-radius: 50%; border: 5px solid white; box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);">
+</div>
+
+<p style="color: white; font-size: 1.3em; line-height: 1.8; text-align: justify; margin: 20px 0;">
+<strong>Iran's pioneering NFT marketplace</strong> revolutionizing digital art ownership. This platform combines cutting-edge blockchain technology with an intuitive user experience, enabling artists and collectors to securely buy, sell, and trade digital assets. Built with robust smart contracts, advanced security protocols, and a seamless UI/UX that makes NFT trading accessible to everyone.
+</p>
+
+<div style="background: rgba(255, 255, 255, 0.2); padding: 15px; border-radius: 10px; margin: 20px 0;">
+<p style="color: white; font-size: 1.1em; font-weight: bold;">Key Features:</p>
+<ul style="color: white; font-size: 1.1em; text-align: left; display: inline-block;">
+<li>✅ Secure blockchain transactions</li>
+<li>✅ Intuitive digital wallet integration</li>
+<li>✅ Real-time bidding system</li>
+<li>✅ Artist verification & royalty system</li>
+<li>✅ Responsive design for all devices</li>
+</ul>
+</div>
+
+<div style="margin-top: 30px; display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 <a href="https://github.com/arman-shahhoseini/IRNFT-PLatform" target="_blank">
-<img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
+<img src="https://img.shields.io/badge/Explore%20Code-181717?style=for-the-badge&logo=github&logoColor=white&size=2em" alt="GitHub Repository"/>
 </a>
 <a href="https://irnftplatform.netlify.app" target="_blank">
-<img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"/>
+<img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&size=2em" alt="Live Demo"/>
 </a>
-</div>
-</div>
-
-<div style="background: linear-gradient(45deg, #f093fb, #f5576c); padding: 25px; border-radius: 15px; width: 45%; min-width: 300px; box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);">
-<h3>🤖 Instagram Automation Suite</h3>
-<p style="text-align: justify;">Advanced automation tools for Instagram with intelligent engagement features, content scheduling, and analytics dashboard. Built with Python and Selenium for seamless performance.</p>
-<div style="margin-top: 15px;">
-<a href="https://github.com/arman-shahhoseini/Instagram-Automation" target="_blank">
-<img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
-</a>
-<a href="https://instagram-automation-demo.netlify.app" target="_blank">
-<img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"/>
-</a>
-</div>
-</div>
-
-<div style="background: linear-gradient(45deg, #4facfe, #00f2fe); padding: 25px; border-radius: 15px; width: 45%; min-width: 300px; box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);">
-<h3>🧠 DeepVision AI</h3>
-<p style="text-align: justify;">Advanced computer vision system for real-time object detection and image classification. Utilizes state-of-the-art CNN architectures with 98% accuracy.</p>
-<div style="margin-top: 15px;">
-<a href="https://github.com/arman-shahhoseini/DeepVision-AI" target="_blank">
-<img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
-</a>
-<a href="https://deepvision-demo.netlify.app" target="_blank">
-<img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"/>
-</a>
-</div>
-</div>
-
-<div style="background: linear-gradient(45deg, #fa709a, #fee140); padding: 25px; border-radius: 15px; width: 45%; min-width: 300px; box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);">
-<h3>📊 DataViz Studio</h3>
-<p style="text-align: justify;">Interactive data visualization platform with advanced analytics. Transforms complex datasets into intuitive visual insights with real-time processing.</p>
-<div style="margin-top: 15px;">
-<a href="https://github.com/arman-shahhoseini/DataViz-Studio" target="_blank">
-<img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
-</a>
-<a href="https://dataviz-studio-demo.netlify.app" target="_blank">
-<img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"/>
-</a>
-</div>
 </div> </div>
 </div>
 
@@ -250,20 +228,20 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40px" height="40px"> Let's Connect & Collaborate
 <div align="center">
-<div style="background: linear-gradient(45deg, #667eea, #764ba2); padding: 25px; border-radius: 15px; margin: 20px 0; width: 80%;">
-<h2 style="color: white; margin-bottom: 20px;">🌟 Building the Future Together</h2>
-<p style="color: white; font-size: 1.2em; margin-bottom: 20px;">
+<div style="background: linear-gradient(45deg, #667eea, #764ba2); padding: 30px; border-radius: 20px; margin: 30px 0; width: 80%;">
+<h2 style="color: white; margin-bottom: 20px; font-size: 2em;">🌟 Building the Future Together</h2>
+<p style="color: white; font-size: 1.3em; margin-bottom: 25px; line-height: 1.6;">
 As Founder & CTO of ARMAN Team, I'm always open to connecting with visionaries, innovators, and builders shaping the next era of technology. Let's collaborate on AI, blockchain, and transformative tech solutions!
 </p>
-<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 <a href="mailto:shahhoseiniarman@gmail.com">
-<img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me">
+<img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&size=1.3em" alt="Email Me">
 </a>
 <a href="https://www.linkedin.com/in/arman-shahhoseini-4447152a0" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Connect">
+<img src="https://img.shields.io/badge/LinkedIn%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&size=1.3em" alt="LinkedIn Connect">
 </a>
 <a href="https://t.me/armnre" target="_blank">
-<img src="https://img.shields.io/badge/Telegram%20Chat-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Chat">
+<img src="https://img.shields.io/badge/Telegram%20Chat-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&size=1.3em" alt="Telegram Chat">
 </a>
 </div>
 </div>
@@ -272,8 +250,8 @@ As Founder & CTO of ARMAN Team, I'm always open to connecting with visionaries, 
 <img src="https://komarev.com/ghpvc/?username=arman-shahhoseini&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </div>
 
-<blockquote style="background: linear-gradient(45deg, #f093fb, #f5576c); padding: 20px; border-radius: 15px; margin: 20px 0; max-width: 80%;">
-<p style="color: white; font-size: 1.3em; font-style: italic;">
+<blockquote style="background: linear-gradient(45deg, #f093fb, #f5576c); padding: 25px; border-radius: 15px; margin: 20px 0; max-width: 80%;">
+<p style="color: white; font-size: 1.4em; font-style: italic; text-align: center;">
 "At ARMAN, we're not just writing code; we're building the future through AI, blockchain, and full-stack development solutions."
 </p>
 </blockquote>
