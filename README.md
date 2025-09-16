@@ -72,26 +72,6 @@
 <td style="padding: 15px;">Freelance</td>
 <td style="padding: 15px;">May 2024 - Nov 2024</td>
 </tr>
-<tr style="border-bottom: 1px solid #e2e8f0;">
-<td style="padding: 15px; font-weight: bold;">Senior AI Engineer</td>
-<td style="padding: 15px;">TechInnovate Solutions</td>
-<td style="padding: 15px;">2022 - 2025</td>
-</tr>
-<tr style="border-bottom: 1px solid #e2e8f0; background-color: #f7fafc;">
-<td style="padding: 15px; font-weight: bold;">Full-Stack Developer</td>
-<td style="padding: 15px;">DigitalCraft Agency</td>
-<td style="padding: 15px;">2020 - 2022</td>
-</tr>
-<tr style="border-bottom: 1px solid #e2e8f0;">
-<td style="padding: 15px; font-weight: bold;">Teaching Assistant</td>
-<td style="padding: 15px;">Amol University</td>
-<td style="padding: 15px;">2019 - 2020</td>
-</tr>
-<tr style="background-color: #f7fafc;">
-<td style="padding: 15px; font-weight: bold; border-radius: 0 0 0 10px;">Junior Developer</td>
-<td style="padding: 15px;">StartUpHub</td>
-<td style="padding: 15px; border-radius: 0 0 10px 0;">2018 - 2019</td>
-</tr>
 </table>
 </div>
 
